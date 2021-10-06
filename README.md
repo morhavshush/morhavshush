@@ -2,7 +2,7 @@
 
 - Back-End: C#, Python, Node.js
 - Front-End: React, Angular, HTML5, CSS3, ASP.NET, Razor
-- Databases: SQL, MongoDB, SQLite
+- Databases: SQL, SQLite
 - Cloud: Azure
 - Additional: Docker, Unit Tests, Entity-Framework and much more.
 
